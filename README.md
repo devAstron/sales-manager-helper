@@ -6,3 +6,5 @@ Steps:
 2.Receiving the name of the products needed by the user, creating a list of them and writing a function that returns it
 
 3.Check whether the seller has the products needed by the user, and if so, issue the price
+Try using the program in Google Colab (Link):
+(https://colab.research.google.com/drive/1TcSrbllaRxof0tKST_1jKhy1K4eq4v2I?hl=ru#scrollTo=ubtHDUEgde6L)
